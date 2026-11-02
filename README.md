@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20App-0ea5e9?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ais-pre-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20App-0ea5e9?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ais-dev-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
 [![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -14,17 +14,17 @@
   <strong>An immersive meteorological platform featuring procedural low-poly 3D floating weather islands, real-time OpenWeatherMap API connectivity, astronomical solar/lunar mechanics, and deep atmospheric telemetry.</strong>
 </p>
 
-[**Explore Live Application »**](https://ais-pre-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
+[**🚀 Explore Live Interactive Application »**](https://ais-dev-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
 
 </div>
 
 ---
 
-## 🌐 Live Deployment
+## 🌐 Live Web Application
 
-The application is deployed and accessible at:
-- **Production Live Demo**: [https://ais-pre-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app](https://ais-pre-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
-- **Development Preview**: [https://ais-dev-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app](https://ais-dev-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
+The application is deployed live and immediately accessible at:
+- **Live Interactive App**: [https://ais-dev-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app](https://ais-dev-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app)
+- **Shared App Domain**: [https://ais-pre-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app](https://ais-pre-bghmfx7yjq4uvkfxjoakep-981864576343.asia-east1.run.app) *(Active once shared/published in AI Studio)*
 
 ---
 
