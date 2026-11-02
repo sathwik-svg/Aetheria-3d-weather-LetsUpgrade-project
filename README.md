@@ -132,8 +132,8 @@ Whether checking today's UV index, scrubbing through the 24-hour solar trajector
 ### Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/sathwik-svg/Aetheria-3d-weather-LetsUpgrade-project.git
+cd Aetheria-3d-weather-LetsUpgrade-project
 
 # Install dependencies
 npm install
